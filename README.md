@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou Jônata C. Caetano! 🖐🏽
 
-- Atualmente trabalho com Desenvolvedor Back-end
+- Atualmente trabalho com Desenvolvedor Back-end e aprendendo React
 - "Pequenas mudanças em seus hábitos podem levar a resultados extraordinários." — James Clear, Hábitos Atômicos.
 - 1% melhor que ontem!
 
