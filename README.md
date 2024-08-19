@@ -452,6 +452,3 @@
   </tbody>
 </table>
 <hr/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonata-Caetano&layout=compact)
